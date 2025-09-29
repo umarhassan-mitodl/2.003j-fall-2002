@@ -4,6 +4,8 @@ description: Problem Set 8
 file: /courses/2-003j-dynamics-and-vibration-13-013j-fall-2002/40ab2b9fd0c2525170229ab5c0345e59_problemset8.pdf
 file_size: 61386
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
