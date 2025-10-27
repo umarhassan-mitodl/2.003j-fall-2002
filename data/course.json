@@ -39,7 +39,6 @@
     "website": "2-003j-dynamics-and-vibration-13-013j-fall-2002"
   },
   "course_title": "Dynamics and Vibration (13.013J)",
-  "hide_download": true,
   "course_description": "Introduction to dynamics and vibration of lumped-parameter models of mechanical systems. Three-dimensional particle kinematics. Force-momentum formulation for systems of particles and for rigid bodies (direct method). Newton-Euler equations. Work-energy (variational) formulation for systems particles and for rigid bodies (indirect method). Virtual displacements and work. Lagrange's equations for systems of particles and for rigid bodies. Linearization of equations of motion. Linear stability analysis of mechanical systems. Free and forced vibration of linear damped lumped parameter multi-degree of freedom models of mechanical systems. Application to the design of ocean and civil engineering structures such as tension leg platforms.\n\nThis subject was originally offered in Course 13 (Department of Ocean Engineering) as 13.013J. In 2005, ocean engineering became part of Course 2 (Department of Mechanical Engineering), and this subject merged with 2.003.\n",
   "department_numbers": [
     "2",
@@ -51,7 +50,6 @@
     "content": "7fe6d676-3aad-95ea-6ed1-cc7002fbb1e6",
     "website": "2-003j-dynamics-and-vibration-13-013j-fall-2002"
   },
-  "hide_download_original": true,
   "learning_resource_types": [
     "Problem Sets",
     "Exams"
